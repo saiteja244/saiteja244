@@ -1,8 +1,9 @@
 ## Hi there 👋
-
+A Passionate computer science student from National Institute of Technology,Patna
+- 📫 How to reach me: saitejachauhan244@gmail.com
+- 
 <!--
 **saiteja244/saiteja244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-A Passionate computer science student from National Institute of Technology,Patna
 
 Here are some ideas to get you started:
 
