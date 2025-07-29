@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-->persuing degree of bachelors of engineering at National Institute of Technology,Patna...
-->Intrested domains:Web development,machine learning,DSA...
-->will be graduated in 2027...
+->persuing degree of bachelors of engineering at National Institute of Technology,Patna  
+
+->Intrested domains:Web development,machine learning,DSA  
+
+->will be graduated in 2027  
+
 
 
 
