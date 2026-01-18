@@ -8,7 +8,7 @@ I love creating real-world projects, solving algorithmic problems, and continuou
 
 ## 🚀 About Me  
 
-- 🔭 Currently learning **JavaScript**, **Frontend Development**, and slowly moving into **React**  
+- 🔭 Currently learning **JavaScript**, **Frontend Development**, and slowly moving into **React** and also into **Backend**  
 - 📚 Practicing **Data Structures & Algorithms** (LeetCode, InterviewBit)  
 - 💡 Exploring **Machine Learning** and **Neural Networks** basics  
 - 🧩 Interested in building real-world projects for my resume (Web + ML)  
@@ -24,7 +24,7 @@ I love creating real-world projects, solving algorithmic problems, and continuou
 - CSS  
 - JavaScript (ES6+)  
 - Responsive Design  
-- (Learning React soon!)
+- Backend
 
 ### **Programming & DSA**
 - Java  
@@ -41,11 +41,11 @@ I love creating real-world projects, solving algorithmic problems, and continuou
 
 ## 📌 My Current Projects  
 
-### 🔹 1. **Flashcard Learning App (with Spaced Repetition)**
-A personal web development project to learn React fundamentals.
+### 🔹 1. **Job Portal App**
+A Fullstack project which helps the jobseekers and recruiters for their job application.
 
-### 🔹 2. **Kanban Task Management App**
-A Personal Task management app that helps in managing tasks in daily life.
+### 🔹 2. **Automated Answering Telephone Directory App**
+A Machine Learning project which helps in detecting the telephone directory.
 
 
 ---
@@ -60,8 +60,9 @@ A Personal Task management app that helps in managing tasks in daily life.
 
 ## 💬 Ask Me About  
 - Frontend Development  
-- JavaScript Basics  
-- DSA (Arrays, HashMaps, Strings, Sliding Window, Greedy, DP basics)  
+- JavaScript
+- Backend
+- DSA (Arrays, HashMaps, Strings, Sliding Window, Greedy, DP , Graphs , Two-Pointers , Stack , Queue , Tree)  
 - How I work & learn new technologies  
 
 ---
